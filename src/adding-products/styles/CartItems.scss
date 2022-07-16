@@ -1,0 +1,22 @@
+
+.delete-item {
+    height: 35px;
+}
+
+.quanity-group {
+    display: flex;
+
+    .quan-buttons {
+        width: 50px;
+        margin: 0 !important;
+    }
+
+    .input-quanity {
+        width: 40px;
+        margin: 0 3px;
+    }
+}
+
+.item-total {
+    margin: 0 !important;
+}
